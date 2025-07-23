@@ -13,7 +13,7 @@ A simple, interactive Tic-tac-toe game for your terminal, developed in C.
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/KitsuneNoMegami/Tic-tac-toe.git
+   git clone https://github.com/KitsuneNoMegami/Game-in-C.git
    cd Tic-tac-toe
    ```
 
@@ -55,7 +55,7 @@ Contributions, bug reports, and suggestions are welcome! Please open an issue or
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+This project is licensed under the MIT License. See [LICENSE](../LICENSE) for more information.
 
 ---
 
