@@ -19,7 +19,7 @@ A simple Snake game written in C.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/KitsuneNoMegami/Snake-C.git
+   git clone https://github.com/KitsuneNoMegami/Game-in-C.git
    cd Snake-C
    ```
 
