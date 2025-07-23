@@ -23,4 +23,4 @@ Feel free to open issues or pull requests if you have suggestions, find bugs, or
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the MIT [License](LICENSE).
