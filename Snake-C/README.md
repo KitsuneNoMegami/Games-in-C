@@ -18,19 +18,21 @@ A simple Snake game written in C.
 ### Steps
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/KitsuneNoMegami/Game-in-C.git
    cd Snake-C
    ```
 
 2. Build the game:
+
    ```bash
    make
    ```
 
 3. Run the game:
    ```bash
-   ./main
+   ./bin/main
    ```
 
 ## Controls

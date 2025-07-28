@@ -29,7 +29,7 @@ A simple Hanged Man in your terminal, developed in C.
 Run the compiled program from your terminal:
 
 ```bash
-./main
+./bin/main
 ```
 
 Follow the on-screen prompts to play the game.
