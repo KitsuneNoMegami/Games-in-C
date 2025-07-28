@@ -39,7 +39,7 @@ int draw_grid(WINDOW *game, snake *s, int* apple)
 
     mvwprintw(game, 0, 1, " Game ");
     mvwprintw(game, HEIGHT-1, 1, " Score : %d ", s->score);
-    mvwprintw(game,HEIGHT-1, 10,"Speed : %d",s->speed%100);
+    mvwprintw(game,HEIGHT-1, 15,"Speed : %d",s->speed);
     wrefresh(game);
     return EXIT_SUCCESS;
 }
