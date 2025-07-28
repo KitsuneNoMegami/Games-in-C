@@ -8,7 +8,7 @@ This repository is a collection of simple games developed in the C programming l
 ### Snake
 A classic snake game implemented in C. Steer your snake to eat food, grow longer, and avoid running into walls or yourself!
 
-- **Location:** [`Snake-C`](./Snake-C/)
+- **Location:** [`Snake C`](./Snake-C/)
 - **How to Play:** Instructions are found in the Snake-C folder.
 
 ### Tic-tac-toe
@@ -16,6 +16,12 @@ Play Tic-tac-toe directly in your terminal. Challenge a friend or play against t
 
 - **Location:** [`Tic-tac-toe`](./Tic-tac-toe/)
 - **How to Play:** Instructions are found in the Tic-tac-toe folder.
+
+### The Hanged Man
+Play Hanged Man directly in your terminal.
+
+- **Location:** [`The Hanged Man`](./The-Hanged-Man/)
+- **How to Play:** Instructions are found in the Hanged Man folder.
 
 ## Contributing
 
