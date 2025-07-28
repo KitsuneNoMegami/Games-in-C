@@ -32,7 +32,7 @@ A simple, interactive Tic-tac-toe game for your terminal, developed in C.
 Run the compiled program from your terminal:
 
 ```bash
-./tictactoe
+./main
 ```
 
 Follow the on-screen prompts to play the game. Players take turns entering their moves by specifying the row and column numbers.

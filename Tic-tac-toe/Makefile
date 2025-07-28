@@ -1,5 +1,3 @@
-# Makefile for Snake Game in C
-
 # Compiler and flags
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c99 -g
