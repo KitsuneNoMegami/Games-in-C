@@ -3,6 +3,7 @@
 #include "display.h"
 
 int main(){
-    printf(DEAD);
+
+    
     return EXIT_SUCCESS;
 }
