@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 void display_man( int score){
+    printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
     switch(score){
         case 1:
             printf("\n%s",BASE);
@@ -28,6 +29,6 @@ void display_man( int score){
             printf("\n%s",DEAD);
             break;
         default:
-            printf("\nAAAAAAAAAAAAAA ");
+            printf("\nSafe for now...\n");
     }
 }
