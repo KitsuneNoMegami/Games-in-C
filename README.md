@@ -12,7 +12,7 @@ A classic snake game implemented in C. Steer your snake to eat food, grow longer
 - **How to Play:** Instructions are found in the Snake-C folder.
 
 ### Tic-tac-toe
-Play Tic-tac-toe directly in your terminal. Challenge a friend or play against the computer !
+Play Tic-tac-toe directly in your terminal. Challenge a friend!
 
 - **Location:** [`Tic-tac-toe`](./Tic-tac-toe/)
 - **How to Play:** Instructions are found in the Tic-tac-toe folder.
