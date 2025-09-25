@@ -14,6 +14,7 @@ A simple Snake game written in C.
 
 - C compiler (like GCC)
 - Make
+- libncurses5-dev library
 
 ### Steps
 
