@@ -1,4 +1,4 @@
-#The Hanged Man
+# The Hanged Man
 
 A simple Hanged Man in your terminal, developed in C.
 
