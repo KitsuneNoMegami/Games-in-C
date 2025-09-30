@@ -44,7 +44,7 @@ Follow the on-screen prompts to play the game. Players take turns entering their
  -------------------
   4   |   5   |   6
  -------------------
-  7   |   8 |     9
+  7   |   8   |   9
 
   Where do you want to play ? (Choose a number)
 ```
