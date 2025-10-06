@@ -57,3 +57,13 @@ Feel free to open issues or pull requests if you have suggestions, find bugs, or
 ## License
 
 This repository is licensed under the MIT [License](LICENSE).
+
+## Gitignore
+
+A `.gitignore` file is included to prevent build artifacts and binary files (such as those in `bin/`) from being tracked by git. This helps keep the repository clean and source-focused. Typical entries might include:
+
+```
+bin/
+*.o
+*.exe
+```
